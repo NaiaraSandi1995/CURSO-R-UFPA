@@ -5,7 +5,12 @@ Pasta criada para o curso introdutório de R, voltado aos alunos de Ciências So
 
 <img src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="235" height="300" />
 
-<img src="https://giphy.com/embed/UslGBU1GPKc00g.gif" width="235" height="300" />
+
+
+https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif
+https://giphy.com/clips/giphyfilmfest-Wwn18PDz8gi7TOPno0
+
+<img src="https://giphy.com/clips/giphyfilmfest-Wwn18PDz8gi7TOPno0" width="235" height="300" />
 
 
 
