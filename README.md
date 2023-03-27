@@ -5,6 +5,7 @@ Pasta criada para o curso introdutório de R, voltado aos alunos de Ciências So
 
 <img src="https://media.giphy.com/media/UslGBU1GPKc0g/giphy.gif" height="300" />
 
+<img src="https://media.giphy.com/media/UslGBU1GPKc0g/giphy.gif" height="300" />
  
   
 *Compartilhar link
